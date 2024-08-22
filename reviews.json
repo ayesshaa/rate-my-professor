@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Very knowledgeable and engaging lectures."
+      },
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Explains concepts clearly and is very approachable."
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "Good teacher but sometimes hard to follow."
+      },
+      {
+        "professor": "Dr. Sarah Davis",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Makes the subject interesting and fun."
+      },
+      {
+        "professor": "Dr. David Wilson",
+        "subject": "History",
+        "stars": 2,
+        "review": "Lectures are a bit dry and monotonous."
+      },
+      {
+        "professor": "Dr. Laura Martinez",
+        "subject": "English",
+        "stars": 5,
+        "review": "Very passionate about literature and great at discussions."
+      },
+      {
+        "professor": "Dr. James Anderson",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Good at explaining complex topics."
+      },
+      {
+        "professor": "Dr. Linda Thomas",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Decent lectures but could be more engaging."
+      },
+      {
+        "professor": "Dr. Robert Jackson",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Inspires deep thinking and great class discussions."
+      },
+      {
+        "professor": "Dr. Barbara White",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Very insightful and thought-provoking."
+      },
+      {
+        "professor": "Dr. William Harris",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Lectures are often unorganized."
+      },
+      {
+        "professor": "Dr. Patricia Clark",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Makes the subject very relatable and interesting."
+      },
+      {
+        "professor": "Dr. Christopher Lewis",
+        "subject": "Engineering",
+        "stars": 3,
+        "review": "Good content but sometimes hard to understand."
+      },
+      {
+        "professor": "Dr. Karen Robinson",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Very passionate and knowledgeable."
+      },
+      {
+        "professor": "Dr. Richard Walker",
+        "subject": "Geography",
+        "stars": 3,
+        "review": "Decent lectures but could use more examples."
+      },
+      {
+        "professor": "Dr. Susan Hall",
+        "subject": "Music",
+        "stars": 5,
+        "review": "Very talented and makes learning fun."
+      },
+      {
+        "professor": "Dr. Charles Allen",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Great at explaining cultural concepts."
+      },
+      {
+        "professor": "Dr. Jessica Young",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Very passionate about the subject and great at teaching."
+      },
+      {
+        "professor": "Dr. Daniel King",
+        "subject": "Law",
+        "stars": 3,
+        "review": "Good lectures but sometimes too fast-paced."
+      },
+      {
+        "professor": "Dr. Nancy Wright",
+        "subject": "Medicine",
+        "stars": 4,
+        "review": "Very knowledgeable and helpful."
+      }
+    ]
+  }
+  
